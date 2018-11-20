@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4C16E440-B7A5-4AB3-8865-E1BA03D268AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FullFledgeExcelProject/Models/Book.cs">
+    <Files>
+      <File FileName="FullFledgeExcelProject/Views/Home/Index.cshtml" Line="55" Column="33" />
+      <File FileName="FullFledgeExcelProject/Controllers/ExcelPackageController.cs" Line="90" Column="22" />
+      <File FileName="FullFledgeExcelProject/wwwroot/js/myjsfile.js" Line="71" Column="8" />
+      <File FileName="FullFledgeExcelProject/Models/Book.cs" Line="13" Column="1" />
+      <File FileName="FullFledgeExcelProject/appsettings.json" Line="13" Column="1" />
+      <File FileName="FullFledgeExcelProject/Models/Settings.cs" Line="14" Column="1" />
+      <File FileName="FullFledgeExcelProject/Startup.cs" Line="46" Column="20" />
+      <File FileName="FullFledgeExcelProject/Data/BookContext.cs" Line="22" Column="14" />
+      <File FileName="FullFledgeExcelProject/Data/BookRepository.cs" Line="45" Column="1" />
+      <File FileName="FullFledgeExcelProject/Interfaces/IBookRepository.cs" Line="10" Column="47" />
+      <File FileName="FullFledgeExcelProject/Models/BookParam.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../readingExcelFile/readingExcelFile/Controllers/uploadMultipleController.cs" line="12" offsetX="280" offsetY="165" expression="DocumentFormat" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FullFledgeExcelProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
